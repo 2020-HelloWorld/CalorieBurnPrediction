@@ -6,3 +6,4 @@ The week learners user are
 - KNN
 - Logistic regression
 - Random Forest
+- Linear regression
